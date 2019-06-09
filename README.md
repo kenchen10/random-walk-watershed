@@ -4,3 +4,5 @@ This experiment is based on a question posed on [this](https://www.reddit.com/r/
 
 I ran a simulation and found that 2.4 is the watershed value. 
 
+![alt text](https://github.com/kenchen10/random-walk-watershed/blob/master/watershed.JPG "Logo Title Text 1")
+
